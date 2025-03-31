@@ -1,7 +1,8 @@
 # DATA-4AC-SP25
 <b>Instructor: Mauricio Najarro <br>
-Graduate Student Instructor: Elijah Mercer</b> 
-> Maintained by: Aidan Praytor, Jonathan Ferrari, Drishti Gupta, Erica Jean, Manaar Salama, and the HCE Team
+Graduate Student Instructor: Elijah Mercer</b> <br>
+> Maintained by Aidan Praytor<br>
+> Adapted from the work of Jonathan Ferrari, Drishti Gupta, Erica Jean, Manaar Salama, and the HCE Team
 
 Modules for the Data 4AC Class offered by UC Berkeley.
 
