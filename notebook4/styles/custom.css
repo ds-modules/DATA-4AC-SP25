@@ -1,0 +1,25 @@
+div.test {    
+    background-color: #fcf2f2;
+    border-color: #dFb5b4;
+    border-left: 5px solid #dfb5b4;
+    padding: 0.5em;
+    }
+
+div.cell{
+        width:800px;
+        margin-left:16% !important;
+        margin-right:auto;
+
+div.block_quote {
+    font-size: 17px;
+    text-align: justify;
+    text-justify: inter-word;
+
+    
+}
+
+div.output_png {
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+}
